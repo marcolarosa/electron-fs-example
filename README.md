@@ -62,7 +62,7 @@ To see what is going on do the following:
 
 ```
 
-* In a third terminnal run `npm run electron:app`
+* In a third terminal run `npm run electron:app`
     - This will start electron using a main process script (app.js) which then loads the actual application code (dist/index.html). The output from this follows. Notice the content-type is incorrect and the files object is undefined.
 
 ```
